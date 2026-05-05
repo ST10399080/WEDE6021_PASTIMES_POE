@@ -1,0 +1,5 @@
+John Doe j.doe@abc.co.za $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+Jane Smith j.smith@gmail.com $2y$10$TKh8H1.PfYs/QCxJeT3Hy.b5b5K5a5a5a5a5a5a5a5a5a5a5a5a5u
+Michael Brown m.brown@outlook.com $2y$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lFwi
+Sarah Johnson s.johnson@yahoo.com $2y$10$vI8aWBnW3fID.ZQ4/zo1G.q1lRMFiHNRqKcMUWJAiMf2VHWsxhfO6
+David Williams d.williams@webmail.co.za $2y$10$p17mjr9/IJ1JKQKM5mLkUe7GxGzp/kzVPlMfFrZz1vKvWHqBExaOi
