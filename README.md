@@ -11,7 +11,7 @@ Pastimes Is A Online Store Created For The To Sale And Purchase Second-Hand Clot
 
 Pastimes Exists to Make Buying and Selling Second-Hand Clothing in Mint Condition Simple, Trustworthy and Stylish. Our Goal IIs to Extend The Lifecycle of Quality Fashion by Connecting People Who Want to Refresh Their Wardrobes With Those Ready to Pass On Pieces They No Longer Wear. By Focusing On Well-Kept Items and A Smooth User Experience, Pastimes Encourages More Sustainable Shopping Habits While Keeping Fashion Accessible, Affordable and Circular.
 
-## Objectives
+## 🎯 Objectives
 
 * Promote Sustainable Fashion
 * Reduce Clothing Waste
@@ -19,7 +19,7 @@ Pastimes Exists to Make Buying and Selling Second-Hand Clothing in Mint Conditio
 * Enable Users To Easily Buy and Sell Quality Second-Hand Clothing
 * Create A Trusted Marketplace For Pre-Owned Fashion
 
-## Features
+## 🔧 Features
 
 #### 👤 User Account & Authentication
 
