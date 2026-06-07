@@ -199,13 +199,13 @@ npm start
 * Fezile Jam-Jam (ST10399080)
 * Ofentse Moremi (fEmi2024)
 
-## 📄 License
-
-This Project Is Licensed Under The MIT License.
-
 ## 📁 Project Structure
 
 ## ▶️ Demo
+
+## 📄 License
+
+This Project Is Licensed Under The MIT License.
 
 ## 🖼️ UI Screenshots
 
